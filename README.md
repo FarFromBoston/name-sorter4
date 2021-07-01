@@ -54,8 +54,9 @@ Manual Method
 
 During a RUN the program may take you to a TESTER file if Junit cant be found, this is fine just please left-click the RED text "junit" in the top most lines of code (i.e. import org.junit.Before;) then click the red light/bell that appears to the left of the line. And  hit "Add junit4 to classpath" and hit OK on the window that appears.
 
-Optional step
+Optional steps if need to
 - Please right-click the folder 'test' and move your mouse down to "Mark directory As" > "test Sources Root" (Green icon)
+- Please right-click the folder 'src' and move your mouse down to "Mark directory As" > "Sources Root" (Blue icon)
 
 Then run Main again.
 
