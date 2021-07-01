@@ -44,12 +44,12 @@ Manual Method
 2) If you cannot run Java files then please do the following:
 
 - Open intellij idea and open the extracted file
-- In intellij open the file in the left most pane (name-sorter3-main > GlobalX > src)
+- In intellij open the file in the left most pane (name-sorter4-main > name-sorter4-main > GlobalX > src)
 - In the top most bar go to FILE > Projcect Structure and change "Project SDK" and "Project Language Level" to JAVA version 14
 - Close this window
-- Right-click the file named "unsorted-names-list.txt" > COPY
-- Right-click the outermost/topmost folder in intelliJ (or place your own text file) and click > PASTE
-- Please then right click the name "Main" under "src" (name-sorter4-main\GlobalX\src)
+- Right-click the file named "unsorted-names-list.txt" (found at name-sorter4-main\name-sorter4-main\GlobalX) > COPY
+- Right-click the outermost/topmost folder in intelliJ (name-sorter4-main) (or place your own text file named the same) and click > PASTE
+- Please then right click the name "Main" under "src" (name-sorter4-main\name-sorter4-main\GlobalX\src)
 - and hit RUN.
 
 During a RUN the program may take you to a TESTER file if Junit cant be found, this is fine just please left-click the RED text "junit" in the top most lines of code (i.e. import org.junit.Before;) then click the red light/bell that appears to the left of the line. And  hit "Add junit4 to classpath" and hit OK on the window that appears.
