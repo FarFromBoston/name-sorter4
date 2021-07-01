@@ -36,7 +36,7 @@ First please download the file and extract it.
 Automatic method
 
 1) Copy the text file "unsorted-names-list.txt" (found at name-sorter4-main\name-sorter4-main\GlobalX) into the top-most directory of the initially extracted file.
-2) If you are able to run JAVA files (JARs) then please now click the file normally. 
+2) If you are able to run JAVA files (JARs) then please now click the file normally (name-sorter4/GlobalX/out/artifacts/name_sorter_jar/.jar). 
 
 
 Manual Method
