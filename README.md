@@ -1,6 +1,8 @@
 # name-sorter_ByFFB
 
+This file was packaged:
 
+https://www.jetbrains.com/help/idea/compiling-applications.html#package_into_jar
 
 -----------------------------------------------
 # What it does
