@@ -66,7 +66,10 @@ Then run Main again.
 
 You will see a file created called : "sorted-names-list.txt" in the outer-most directory  And Intellij's Output window will write the sorted names.
 
+----------------------------------
+# Things to upgrade
+Incorporate SOLID design principles (i.e. for the SORTER): 
 
-
+https://stackoverflow.com/questions/68262576/how-to-defer-behavior-of-a-sorting-function
 
 
