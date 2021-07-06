@@ -1,6 +1,6 @@
 # name-sorter_ByFFB
 
-This file was packaged:
+This file was packaged via IntelliJ:
 
 https://www.jetbrains.com/help/idea/compiling-applications.html#package_into_jar
 
@@ -70,7 +70,11 @@ You will see a file created called : "sorted-names-list.txt" in the outer-most d
 
 ----------------------------------
 # Things to upgrade
-Incorporate SOLID design principles (i.e. for the SORTER): 
+Incorporate SOLID design principles: 
+
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+(i.e. for the SORTER): 
 
 https://stackoverflow.com/questions/68262576/how-to-defer-behavior-of-a-sorting-function
 
